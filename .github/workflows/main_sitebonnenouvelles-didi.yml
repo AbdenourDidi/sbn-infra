@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'siteBonneNouvelles-didi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5EF6BD328D8D46248EAB857C4B48BA9D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F7028DAC79645E084704A66CE5B733E }}
           package: .
